@@ -12,3 +12,7 @@ Makefile文件的编写方式。
 ## 博客文章
 
 [多级目录Makefile编写方法](http://xnzaa.github.io/2015/01/26/Makefile%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)
+
+---
+
+当前时间戳：2026-11-02 20:42:02（UTC+8）
